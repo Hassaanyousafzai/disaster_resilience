@@ -1,6 +1,6 @@
-# solution_challange
+# solution_challenge
 
-A new Flutter project.
+Disaster Resilience: Pakistan's SOS App
 
 ## Getting Started
 
